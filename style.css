@@ -2,11 +2,12 @@ html{
   font-family: 'ZCOOL XiaoWei', serif !important;
 }
 .first {
-  background-image: url(images/main.jpg);
+ /*  background-image: url(images/main.jepg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; */
   height:700px;
-  color: white;
+  /* color: white; */
+  background-color: #173778;
 }
 
 .first h1 {
