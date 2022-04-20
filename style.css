@@ -7,7 +7,9 @@ html{
   background-size: cover; */
   /*height:700px;*/
   /* color: white; */
-  background-color: white;/* #173778; */
+  background-color: whitesmoke;
+  padding-right: 0px !important;
+  padding-left: 0px!important;
 }
 
 .first h1 {
@@ -32,17 +34,6 @@ nav{
 
 a:hover {
  text-decoration: none!important;
-  }
-
-  .first , .first .pic, .first {
-   padding-right: 0px !important;
-   padding-left: 0px!important;
-  }
-
-footer {
-  background-color: #2d2d2d;
-  color:white;
-  padding: 4%;
 }
 
 .espaciado{
@@ -51,4 +42,18 @@ footer {
 
 .espaciado_2{
   padding-top: 2%;
+}
+.card_color{
+  background-color: #f3eded;
+}
+
+.ecci_logos{
+  width: 300px;
+  height: 48px;
+}
+
+footer {
+  background-color: #2d2d2d;
+  color:white;
+  padding: 4%;
 }
