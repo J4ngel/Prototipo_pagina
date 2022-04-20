@@ -7,11 +7,11 @@ html{
   background-size: cover; */
   /*height:700px;*/
   /* color: white; */
-  background-color: #173778;
+  background-color: white;/* #173778; */
 }
 
 .first h1 {
-  color: white;
+  color: black;
 }
 
 .social li{
@@ -22,17 +22,13 @@ html{
 }
 
 li a{
-  color: white !important;
+  color: black !important;
 }
 
 nav{
   margin-top: 6%;
-  border-top: 1px solid white;
+  border-top: 1px solid black;
 }
-
- a h2 {
-   color: white;
- }
 
 a:hover {
  text-decoration: none!important;
@@ -51,4 +47,8 @@ footer {
 
 .espaciado{
   padding-bottom: 3%;
+}
+
+.espaciado_2{
+  padding-top: 2%;
 }
